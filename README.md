@@ -1,2 +1,3 @@
 # my-fav-colors
-A color picker web app using React
+
+> A color picker web app using React
